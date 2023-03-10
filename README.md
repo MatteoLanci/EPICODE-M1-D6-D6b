@@ -12,4 +12,4 @@ created a Pinterest Card with some animations on 'hover'
 
 upgraded Amazon-like Homepage adding overlay on hover on images in 'Find the perfect gift' section.
 
-<b><u>click on 'add to cart' button and 'like' button to see the effect onlick</u></b>
+<b><u>click on 'add to cart' button and 'like' button to see the effect onclick</u></b>
