@@ -14,4 +14,4 @@ upgraded Amazon-like Homepage adding overlay on hover on images in 'Find the per
 
 <b><u>click on 'add to cart' button and 'like' button to see the effect onclick</u></b>
 
-PLEASE NOTE: the over effect doens't work on small size display such as smartphones and tablets
+PLEASE NOTE: the over effect doesn't work on small size display such as smartphones and tablets
