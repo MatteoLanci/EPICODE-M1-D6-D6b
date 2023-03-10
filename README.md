@@ -6,7 +6,7 @@ this repo contains 2 folders
 
 created a Pinterest Card with some animations on 'hover'
 
-<b><u>try the 'save' button and click on it for download the image on your computer!</u></b>
+<b><u>try the 'save' button and click on it to actually download the image on your computer!</u></b>
 
 # D6b
 
