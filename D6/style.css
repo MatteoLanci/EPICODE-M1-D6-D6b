@@ -78,6 +78,19 @@ body {
   transition: 0.1s;
 }
 
+.saveHover {
+  position: absolute;
+  top: 10px;
+  left: -250px;
+  font-size: 0.7rem;
+  display: none;
+}
+
+.redBtn:hover .saveHover {
+  display: block;
+  transition: 0.5s;
+}
+
 .card-container:hover .redBtn {
   position: absolute;
   top: 1rem;
@@ -271,10 +284,8 @@ footer a:hover {
     font-size: 1rem;
   }
 
-  .save-hover {
-    position: absolute;
-    top: 10px;
-    left: -200px;
+  .saveHover {
+    left: -205px;
     font-size: 0.6rem;
   }
 
